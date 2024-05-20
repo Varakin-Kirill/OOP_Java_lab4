@@ -10,3 +10,7 @@
 * Вернуть строки JSON с сервера
 * Создать из строки JSON объект
 * Получить список всех объектов хранящихся на сервере в файле (можно в виде таблицы, в виде карточек, в виде контейнеров и т.д.)
+![image](https://github.com/Varakin-Kirill/OOP_Java_lab4/assets/124809245/20c9170d-b546-47e0-bd49-2c2e5b520f8c)
+![image](https://github.com/Varakin-Kirill/OOP_Java_lab4/assets/124809245/821c26c3-7032-4288-9adf-578ede84e0e9)
+
+
